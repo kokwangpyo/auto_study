@@ -2,6 +2,8 @@
 <br>8/5 (어떤걸 할지 정하고 일정 짜기)
 <br>기본 문제풀이
 <br>사이트 : https://www.inflearn.com/course/코딩-인터뷰/
+<br>사이트 : https://programmers.co.kr/
+<br>사이트 : https://www.hackerrank.com/
 2. 재귀함수와 완전탐색법(8/12)
 <br>함수의 정의 및 재귀함수 설명
 <br>완전탐색 및 가지치기(Back Tracking) 기본 코드 설명
