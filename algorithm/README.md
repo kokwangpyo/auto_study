@@ -1,6 +1,7 @@
 1. 자율 스터디 첫 모임(8/5)
 <br>8/5 (어떤걸 할지 정하고 일정 짜기)
 <br>기본 문제풀이
+<br>사이트 : https://www.swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDYSqAAbw5UW6
 <br>사이트 : https://www.inflearn.com/course/코딩-인터뷰/
 <br>사이트 : https://programmers.co.kr/
 <br>사이트 : https://www.hackerrank.com/
