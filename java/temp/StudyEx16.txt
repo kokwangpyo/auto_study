@@ -1,0 +1,37 @@
+다음 프로그램은 간단한 회원 정보를 포함하고 있는 클래스를 작성한 것이다. 실행 결과를 적으시오.
+
+public class UserTest {
+
+	public static void main(String[] argv) {
+		new UserTest().compare();
+	}
+
+	private void compare() {
+		User a = new User("J", "Lee");
+		User b = new User("J", "Lee");
+		User c = a;
+
+		System.out.println(a == b);
+		System.out.println(a == c);
+		System.out.println(a.equals(b));
+	}
+
+	public class User {
+		private String firstName;
+		private String lastName;
+
+		public User(String firstName, String lastName) {
+			this.firstName = new String(firstName);
+			this.lastName = new String(lastName);
+		}
+
+		public boolean equals(User other) {
+			return match(firstName, other.firstName)
+					|| match(lastName, other.lastName);
+		}
+
+		private boolean match(String part1, String part2) {
+			return part1 == part2 && part1.equals(part2);
+		}
+	}
+}

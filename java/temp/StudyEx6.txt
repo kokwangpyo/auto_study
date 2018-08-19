@@ -1,0 +1,6 @@
+다음 코드 및 예측 결과 중 틀린 해석을 고르시오.
+
+① ?int a = 3.5; // 컴파일 오류가 발생한다.
+② int a1 = 5; double a2 = (float)a1; // 정상 동작한다.
+③ int a = 9 / 0; // 컴파일 오류가 발생한다.
+④ Integer a = new Integer(2); Integer b = new Integer(2); System.out.println( a == b ); // false를 출력한다.

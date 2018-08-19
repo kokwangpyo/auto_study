@@ -1,0 +1,22 @@
+?다음?프로그램의?실행결과로?올바른?것은? 
+
+public class AutoBoxing {
+
+	public static void main(String[] argv) {
+		
+		int idx = 0;
+		char[] charArray = new char[10];
+		
+		charArray[idx++] = '0';
+		charArray[idx++] = 65;
+		charArray[idx++] = 'A' + 1;
+		
+		System.out.println( charArray );
+	}
+
+}
+
+① 컴파일 오류가 발생한다.
+② 실행 시 오류가 발생한다.
+③ 0AB
+④ 065B

@@ -1,0 +1,13 @@
+다음 코드 상의 ___ 위치에 들어갈 수 없는 키워드를 고르시오.
+
+___ class ATestClass {
+
+	public static void main(String[] argv) {
+		
+	}
+}
+
+①	public
+②	private
+③	abstract
+④	final
